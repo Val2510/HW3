@@ -1,0 +1,138 @@
+body{
+    background: rgb(255, 255, 255);
+}
+.main_text{
+    color: rgb(0, 0, 0);
+    font-family: "Gilroy-Bold";
+    font-size: 60px;
+    font-weight: 400;
+    line-height: -1px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.meta_text{
+color: rgb(136, 136, 136);
+font-family: "Gilroy-Medium";
+font-size: 20px;
+font-weight: 400;
+line-height: -1px;
+letter-spacing: 0%;
+text-align: left;
+}
+button{
+    color: rgb(255, 255, 255);
+    font-family: "Gilroy-Bold";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: -1px;
+    letter-spacing: 0%;
+    text-align: center;
+    border-radius: 50px;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.2);
+    background: rgb(242, 88, 34);
+    width: 140px;
+    height: 50px;
+    left: 2013px;
+    right: -2013px;
+    top: 75px;
+    bottom: -75px;
+}
+
+.text_menu1{
+    font-family: "Gilroy-Medium";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: -1px;
+    letter-spacing: 0%;
+    text-align: left;
+    color: rgb(242, 88, 34);
+}
+.text_menu{
+    font-family: "Gilroy-Medium";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: -1px;
+    letter-spacing: 0%;
+    text-align: left;
+    color: rgb(0, 0, 0);
+}
+a{
+    text-decoration: none;
+}
+.menu-bar{
+width: 1016px;
+height: 40px;
+left: 2013px;
+right: -1109px;
+top: -432px;
+bottom: 1092px;
+display: inline-flex;
+}
+.logo{
+width: 137px;
+height: 40px;
+left: 2013px;
+right: -1134px;
+top: -432px;
+bottom: 432px;
+}
+.menu{
+width: 556px;
+height: 40px;
+left: 2487px;
+top: -432px;
+box-sizing: border-box;
+border: 1px solid rgb(32, 201, 5);
+}
+.Watch{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+width: 374px;
+height: 94px;
+left: 1990px;
+top: 54px;
+box-sizing: border-box;
+border: 1px solid rgb(255, 29, 164);
+}
+.Meta_main{
+width: 589px;
+height: 494px;
+left: 1970px;
+top: -308px;
+box-sizing: border-box;
+border: 1px solid rgb(189, 14, 251);
+}
+.homeMeta{
+width: 1274px;
+height: 536px;
+left: 1954px;
+top: -323px;
+box-sizing: border-box;
+border: 1px solid rgb(233, 156, 8);
+display: inline-flex;
+}
+.background{
+display: inline-flex;
+justify-content: center;
+gap: 48px;
+width: 1240px;
+height: 158px;
+left: 1970px;
+top: 266px;
+box-sizing: border-box;
+border: 1px solid rgb(25, 251, 251);
+}
+.Meta_img{
+width: 544.81px;
+height: 374.84px;
+left: 2573.94px;
+right: -2508.02px;
+top: -309.29px;
+bottom: 307.35px;
+background: url(pngfind);
+}
+.background_img{
+height: 50px;
+}
